@@ -1,2 +1,5 @@
 # hello-world
-this is my github tutorial
+
+Good day all,
+
+I am Greg and I am awesome!
